@@ -1,0 +1,48 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+.aside img {
+  width: 400px;
+  height: 600px;
+  border: 3px solid black;
+  position: fixed;
+  right: 500px;
+  bottom: 0;
+  left: 0;
+  top: 5px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.main {
+  text-align: left;
+  font-size: 30px;
+  color: black;
+  position: absolute;
+  top: 0;
+  left: 35%;
+}
+.nav {
+  float: right;
+  font-size: 20px;
+  padding: 0px;
+  margin: 5px;
+  border: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
